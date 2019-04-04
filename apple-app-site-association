@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "9TXMRA8ZXD.com.inglass.mhub.dev",
-                "paths": ["*"]
+                "paths": ["/deepLink/*"]
             },            
         ]
     }
